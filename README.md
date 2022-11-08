@@ -6,3 +6,5 @@ Installation:
 2) Add these files into folder
 3) Drag folder into resource folder
 4) Go to server.cfg and ensure it
+
+RENAME czradio to radio
